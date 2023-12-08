@@ -196,3 +196,12 @@ body{
     padding: 70px 0px;
     box-sizing: border-box;
 }
+
+a{
+    font-size: 18px;
+    color: #E5E7EB;
+    display: flex;
+    flex-direction: row;
+    gap: 60px;
+    text-decoration: none;
+}
